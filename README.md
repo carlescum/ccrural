@@ -1,0 +1,2 @@
+# ccrural
+projecte rural
